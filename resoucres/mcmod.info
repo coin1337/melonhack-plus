@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "melonhackplus",
+    "name": "MelonHack+",
+    "description": "melonhack, cracked by christallinqq",
+    "version": "0.6.7",
+    "mcversion": "1.12.2",
+    "logoFile": "logo.png",
+    "url": "http://github.com/christallinqq",
+    "updateUrl": "",
+    "authorList": ["Zenhao,Pywong321"],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
